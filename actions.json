@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Full Restart Claude",
+    "icon": "🔄",
+    "command": "Full-Restart-Claude.bat",
+    "type": "bat",
+    "admin": true,
+    "description": "Kill Claude + restart service + relaunch"
+  },
+  {
+    "name": "Clear Cache",
+    "icon": "🧹",
+    "command": "Clear-Claude-Cache.bat",
+    "type": "bat",
+    "admin": true,
+    "description": "Kill Claude, purge cache/logs, relaunch"
+  }
+]
