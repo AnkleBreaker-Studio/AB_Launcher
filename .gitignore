@@ -1,0 +1,17 @@
+# Build outputs
+*.pdb
+*.obj
+*.cache
+bin/
+obj/
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# IDE
+.vs/
+*.suo
+*.user
+*.sln
